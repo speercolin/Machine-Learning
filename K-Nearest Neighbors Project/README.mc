@@ -1,1 +1,1 @@
-K-nearest neighbors built from scratch in Python.
+Simple K-nearest neighbors built from scratch in Python.
